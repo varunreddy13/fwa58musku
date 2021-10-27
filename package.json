@@ -14,11 +14,7 @@
     "pug": "^3.0.2"
   },
   "main": "app.js",
-  "keywords": [
-    "tyyfy",
-    "itiu"
-  ],
-  "author": "Varun reddy musku",
+  "author": "",
   "license": "ISC",
   "description": ""
 }
